@@ -4,6 +4,7 @@ class Komac < Formula
   url "https://github.com/russellbanks/Komac/archive/refs/tags/v2.16.0.tar.gz"
   sha256 "a88eb12956091e2e5bd9b15184a4efc953c037346fe66f81d2553c08b9e81da4"
   license "GPL-3.0-or-later"
+  revision 1
   head "https://github.com/russellbanks/Komac.git", branch: "main"
 
   bottle do
